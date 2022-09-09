@@ -11,7 +11,15 @@ img {
 }
 h1 {
     text-align: center;
+    color: coral;
 }
 p {
     text-align: center;
+    color: gold;
+    font-style: italic;
+}
+img {
+    border-style: solid;
+    border-color: green;
+    border-width: 4mm;
 }
