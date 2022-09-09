@@ -1,3 +1,17 @@
 body {
     background-color: #CC3399;
+    
+}
+img {
+    margin: 1px auto;
+    display: block;
+    width: 30%;
+    height: 100%;
+
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
 }
